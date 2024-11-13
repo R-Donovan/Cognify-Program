@@ -1,9 +1,10 @@
 # Cognify-Program
 Tarea sobre cognify un programa cuyo objetivo es rehabilitar a criminales 
+![image](https://github.com/user-attachments/assets/bcb61615-0fe9-4cd3-b20a-df45d64b74fc)
 <pre>
 
     <p align=center>
-![image](https://github.com/user-attachments/assets/bcb61615-0fe9-4cd3-b20a-df45d64b74fc)
+
 
 Tecnológico Nacional de México
 Instituto Tecnológico de Tijuana
